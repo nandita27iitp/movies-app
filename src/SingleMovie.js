@@ -33,9 +33,6 @@ const SingleMovie = () => {
           <NavLink to="/" className="back-btn">
             Go Back
           </NavLink>
-          <NavLink to="/" className="back-btn">
-            Book Ticket
-          </NavLink>
         </div>
       </div>
     </section>
